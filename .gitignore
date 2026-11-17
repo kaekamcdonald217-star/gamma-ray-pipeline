@@ -1,0 +1,26 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+
+# IDE and OS files
+.spyproject/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated pipeline outputs
+Radiological_Final_Report.xlsx
+Radiological_Interpretation.txt
+Activity_Concentrations.png
+Absorbed_Dose_Rate.png
+Radium_Equivalent.png
+External_Hazard_Index.png
+Activity_Utilization_Index.png
+Internal_Hazard_Index.png
+Annual_Effective_Dose.png
+ELCR.png
